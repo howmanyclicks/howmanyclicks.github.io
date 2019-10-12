@@ -1,3 +1,5 @@
+# Ughh!
+I forgot github-pages doesnt support php, this needs a rewrite or external host, ffs.
 # How Many Clicks?
 This is a project to see how many clicks the button below will get from being hosted publicly on the internet. Click as many times as you like and share the site around, let's try and break this thing!
 
