@@ -1,4 +1,4 @@
-# click-count
+# How Many Clicks?
 This is a project to see how many clicks the button below will get from being hosted publicly on the internet. Click as many times as you like and share the site around, let's try and break this thing!
 
 # Thanks
